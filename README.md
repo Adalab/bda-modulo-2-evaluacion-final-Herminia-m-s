@@ -13,7 +13,8 @@ La evaluación se realiza el día 28/01/2025
 
 ## Objetivos🎯
 Nuestro objetivo principal durante esta evaluación será comprobar que hemos adquirido los conocimientos mínimos necesarios 
-para utilizar correctamente MySQL workbech y extraer información de cualquier BBDD propuesta.
+para utilizar correctamente MySQL workbench y extraer información de cualquier BBDD propuesta.
+
 Estos conocimientos básico son:
 
 - Dominar las queries básicas: SELECT; UPDATE; DELETE; INSERT *
