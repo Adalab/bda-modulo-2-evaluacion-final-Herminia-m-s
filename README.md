@@ -15,7 +15,7 @@ La evaluación se realiza el día 28/01/2025
 Nuestro objetivo principal durante esta evaluación será comprobar que hemos adquirido los conocimientos mínimos necesarios 
 para utilizar correctamente MySQL workbech y extraer información de cualquier BBDD propuesta.
 Estos conocimientos básico son:
-SQL
+
 - Dominar las queries básicas: SELECT; UPDATE; DELETE; INSERT *
 - Dominar las funciones groupby, where y `having``. *
 - Dominar el uso de joins (incluyendo union y `union all``)*
